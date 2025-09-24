@@ -44,6 +44,14 @@ O diagrama abaixo representa visualmente as entidades, seus atributos e relacion
 - *Cloud/Deploy:* AWS (EC2, RDS, S3) ou Heroku (para o MVP)
 - *CI/CD:* GitHub Actions
 
+## Protótipos Interativos
+
+### Versão Mobile
+[🔗 Clique para testar o protótipo mobile no Figma](https://www.figma.com/proto/cY5Wcg54bfTLGjR96yM798/PawStation?node-id=205-99&p=f&t=e6ijebA2PL6NBj3w-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=205%3A40)
+
+### Versão Web  
+[🔗 Clique para testar o protótipo web no Figma](https://www.figma.com/proto/cY5Wcg54bfTLGjR96yM798/PawStation?node-id=93-977&p=f&t=JTE14MPkg1GYjdLb-0&scaling=min-zoom&content-scaling=fixed&page-id=64%3A238&starting-point-node-id=93%3A977&show-proto-sidebar=1)
+
 ## Cronograma para Etapa 2 (N708)
 | Fase | Duração | Atividades Principais |
 |------|---------|----------------------|
