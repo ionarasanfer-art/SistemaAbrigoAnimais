@@ -3,7 +3,7 @@ Solução digital para gestão de abrigos de animais.
 Conecta voluntários, adotantes e doadores em uma plataforma unificada.
 
 ## Contexto Acadêmico
-Projeto desenvolvido para o curso de *Análise e Desenvolvimento de Sistemas* da *Unifor, na disciplina **N705 – Projeto Aplicado Multiplataforma*, etapa 1.
+Projeto desenvolvido para o curso de *Análise e Desenvolvimento de Sistemas* da Unifor, na disciplina *N705 – Projeto Aplicado Multiplataforma*, etapa 1.
 
 ## Problema Abordado e Justificativa
 A gestão de abrigos de animais, como os localizados no Campus Humanidades II da UFC, é realizada majoritariamente de forma manual, envolvendo planilhas, redes sociais e comunicação por mensagens. Isso leva a processos ineficientes, falta de transparência nas doações, dificuldade em gerenciar o histórico de saúde dos animais e acompanhar adoções. Este sistema visa digitalizar e otimizar esses processos, liberando tempo para os voluntários cuidarem dos animais.
